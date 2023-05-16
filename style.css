@@ -1,0 +1,33 @@
+    h1 {
+        color: #FF4136;
+        text-align: center;
+        font-size: larger;
+        font-family: Apple Chancery, cursive;
+    }
+
+    h2{
+        color:#2ECC40;
+        text-align: center;
+        font-size:large;
+        font-family: Apple Chancery, cursive;
+    }
+
+    ul {
+        color:#2ECC40;
+        text-align:left;
+        font-size:medium;
+        font-family: Apple Chancery, cursive;
+    }
+
+    section {
+        color:#FF4136;
+        text-align: left;
+        font-size:small;
+        font-family: Apple Chancery, cursive;
+    }
+    
+    body{
+
+        background-color: black;
+
+}
